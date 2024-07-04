@@ -1,0 +1,16 @@
+title: Vivek's DevOps and Blockchain Blog
+author: Vivek
+email: vivek@example.com
+description: >
+  Exploring stable system architecture, software deployments, and system orchestration through the lens of the BlockBook project.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vivekteega.github.io" # the base hostname & protocol for your site
+
+theme: minima # You can change this to any other theme later
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
